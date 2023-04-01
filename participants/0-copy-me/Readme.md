@@ -1,26 +1,24 @@
 # <\Participant Name\>
 
-I'm <name> from <\country\>. I'm a <student/developer/...>. I'm interested in <\topic\>.
+I'm Hamza from Egypt. I'm a CS student. I'm interested in Web Development .
 
 ## Contact
 
-You can contact me via <\method-of-contact\>.
+You can contact me via hamza.azeem2013.ha@gmail.com.
 
 ## About me
 
-I'm <description>.
-
-<!-- You can add more information about you here. -->
+I'm Computer Science student in FCAI in Cairo University.
+I got in Bioinformatics department in my first year and now I am on my last year, But I have grown a passion towards coding and problem solving,
+So I started my way into the back-end development.
 
 ## My skills
 
-- <\skill-1\>
-- <\skill-2\>
-- <\skill-3\>
-- ...
+- Python
+- C++
+- MS SQL
+- Git
 
 ## Why I want to join
 
-<\description\>
-
-<!-- You can add more information about why you want to join here. This helps us to know you better. -->
+To be a student to Eng. Mohamed and learn from his experience which may lead me to become a Developer like him in the future.
