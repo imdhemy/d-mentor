@@ -10,10 +10,12 @@ maintaining a bunch of open source projects and I have contributed to awesome pr
 
 ## Disclaimer
 
-> **Note:**
+> **Warning**
+>
 > This project is not related to my work at [Reservix GmbH](https://www.reservix.de/). I'm doing this on my own time.
 
-> **Note:**
+> **Warning**
+>
 > This program is not affiliated with any company or organization. I'm not responsible for any damage or loss that may
 > happen to you or your career. You are responsible for your own actions. The program is free and will always be free.
 
