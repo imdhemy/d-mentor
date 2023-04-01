@@ -40,7 +40,8 @@ You can join the program by:
 6. I may contact you to discuss the next steps.
 7. You are now a part of the program.
 
-> **Note:**
+> **Note**
+>
 > If you don't know how to follow the steps above, you can start a discussion
 > on [GitHub](https://github.com/imdhemy/d-mentor/discussions).
 > I will help you to join the program.
