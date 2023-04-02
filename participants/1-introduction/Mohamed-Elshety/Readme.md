@@ -4,12 +4,12 @@ I'm Mohamed from Egypt. I'm a developer. I'm interested in Web Development.
 
 ## Contact
 
-You can contact me via mohamedkingman99@gmail.com.
+You can contact me via mohamedkingman99[at]gmail[dot]com.
 
 ## About me
 
 I'm a Junior frontEnd developer.(React js) And also interested in studying Back-End By Node js.
-    I graduated from the Faculty of Computer Science, Menoufia University in 2021.
+I graduated from the Faculty of Computer Science, Menoufia University in 2021.
 
 ## My skills
 
@@ -17,10 +17,9 @@ I'm a Junior frontEnd developer.(React js) And also interested in studying Back-
 - CSS
 - Js , ES6+
 - Bootstrap
-- React js 
+- React js
 - Git
 
 ## Why I want to join
 
 To learn from @Dhemy and to focus with me on improving my mistakes.
-
