@@ -1,26 +1,28 @@
 # <\Participant Name\>
 
-I'm <name> from <\country\>. I'm a <student/developer/...>. I'm interested in <\topic\>.
+I'm <Mohamed> from <Egypt>. I'm a <developer>. I'm interested in <Web Development/>.
 
 ## Contact
 
-You can contact me via <\method-of-contact\>.
+You can contact me via <mohamedkingman99@gmail.com/>.
 
 ## About me
 
-I'm <description>.
-
+I'm <a Junior frontEnd developer.(React js) And also interested in studying Back-End By Node js>.
+    <I graduated from the Faculty of Computer Science, Menoufia University in 2021>
 <!-- You can add more information about you here. -->
 
 ## My skills
 
-- <\skill-1\>
-- <\skill-2\>
-- <\skill-3\>
-- ...
+- <Html>
+- <CSS>
+- <Js , ES6+>
+- <Bootstrap>
+- <React js >
+- <Git>
 
 ## Why I want to join
 
-<\description\>
+<To learn from @Dhemy and to focus with me on improving my mistakes>
 
 <!-- You can add more information about why you want to join here. This helps us to know you better. -->
