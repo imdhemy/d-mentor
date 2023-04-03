@@ -1,5 +1,8 @@
 # <\Participant Name\>
 
+<!-- PLEASE DON'T UPDATE THIS FILE, OR MOVE IT TO ANOTHER LOCATION. -->
+<!-- COPY THE WHOLE FOLDER AND RENAME IT TO YOUR GITHUB USERNAME. -->
+
 I'm <name> from <\country\>. I'm a <student/developer/...>. I'm interested in <\topic\>.
 
 ## Contact
