@@ -34,7 +34,7 @@ You can join the program by:
 
 1. Star this repository. (optional) but, it's a good way to show your support.
 2. Fork this repository.
-3. Add your name to the list of participants.
+3. Add your name to the list of participants. You can find detailed instructions [here](/request-instructions.md).
 4. Create a pull request.
 5. Wait for the pull request to be merged.
 6. I may contact you to discuss the next steps.
